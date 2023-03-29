@@ -1,0 +1,7 @@
+{
+    "env": {
+      "BUILDPACK_URL": {
+        "value": "http://152.228.175.85:8000/buildpack.tar.gz"
+      }
+    }
+  }
